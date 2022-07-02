@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.Butt {
+/* .Butt {
   background-color: #000000;
   border: none;
   color: white;
@@ -19,7 +19,8 @@
   margin-right: -50%;
   border: 3px solid rgb(99, 218, 218);
   
-}
+} */
+
 .Timey {
   font-size: 1em;
   font-weight: bold;
@@ -30,7 +31,7 @@
   margin: 0.5em;
   object-fit: cover;
   width:230px;
-  height:230px;
+  height:125px;
   position: absolute;
   bottom: 0;
   right: 0;
