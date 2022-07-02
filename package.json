@@ -1,5 +1,5 @@
 {
-  "name": "hw3",
+  "name": "Weather Me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
