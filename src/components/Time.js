@@ -2,6 +2,8 @@ import React from 'react'
 
 var today = new Date(); // get current date
 
+
+
 class Time extends React.Component { 
     constructor(props) {
         super(props);
@@ -11,7 +13,7 @@ class Time extends React.Component {
     }
   render() {
     return (
-      <div>
+      <div className="Timey">
         <h1>Time</h1>
         <p>The day today is: {today.getMonth()+1 + '-' + today.getDate() + '-' + today.getFullYear()}</p>
         <p>The time is: {this.state.time}</p>
