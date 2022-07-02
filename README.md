@@ -1,20 +1,17 @@
-# SWE-432 HW-4 Starter Application
+# Useful Weather Application!!
 
-## Submission Information
+## Starting Information
 
-### Student Information
+### Developer Information
 
 *Please fill in this information before submission*
 
-* **Student Name:** 
-* **Student G-Number:** 
-* **Heroku Deployment URL:**
+* **Developer Name(s): Natnael Haile** 
+* **Heroku Deployment URL:**  (Not Yet Created as of 7/2/22)
 
-### Documentation of your Web App and React Components
+### Documentation of our Web App and React Components
 
-*Here please describe your (at least) 5 different React components as well as the overall purpose of your web application. We provide an example below of what we expect this documentation to look like.*
-
-**General App Description:** This web application provides information about cities loaded from a centralized database at www.citiesinfo.org. This app can help people find reference information about various city attributes such as population, capitals, and other demographic information.
+**General App Description:** This web application provides information about the weather on your local device as well as a fun creative spin by giving you the current season you are in! and other related/useful information.
 
 * **React Component 1:** Retrieve a city from our Washington DC Database
   * *Functionality:* Displays a list of cities and allows the user to sort the cities alphabetically
@@ -41,13 +38,7 @@ $ npm install
 $ npm start
 ```
 
-After executing these commands, your express backend and React frontend should now be running on [localhost:5000](http://localhost:5000/). You can visit this page in your web browser to view your front-end user interface. You can also access your microservice endpoints (e.g., [localhost:5000/cities](http://localhost:5000/cities). Please see the [HW #3 instructions](https://cs.gmu.edu/~kpmoran/teaching/swe-432-f21/hw3) for more information on how this works.
-
-## Deploying to Heroku
-
-Check out [our instructions](https://cs.gmu.edu/~kpmoran/teaching/swe-432-f21/hw3) for deploying your application to Heroku. You can use the button below for quick access to your Heroku account.
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+After executing these commands, your express backend and React frontend should now be running on [localhost:5000](http://localhost:5000/). 
 
 ## Testing with Continuous Integration
 
