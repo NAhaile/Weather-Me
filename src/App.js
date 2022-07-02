@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
+import Button from './components/Button';
+import Time from './components/Time';
+
 
 class App extends Component {
   // Initialize state
@@ -8,8 +11,10 @@ class App extends Component {
 render() {
 
     return (
-      <div className="App">
-        <h1>Hello World!</h1>
+      <div>
+        <h1>Weather me!</h1>
+        <Button />
+        <Time />
 
       </div>
       );    
